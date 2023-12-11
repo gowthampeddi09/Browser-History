@@ -1,0 +1,36 @@
+.each-search-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.time {
+  color: #64748b;
+  font-size: 18px;
+}
+
+.website-details-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.website-logo {
+  height: 35px;
+  width: 35px;
+}
+
+.website-name {
+  color: #475569;
+  font-family: 'Roboto';
+  font-weight: 23px;
+  font-weight: bold;
+}
+.website-url {
+  color: #64748b;
+  font-size: 18px;
+}
+
+.delete-icon {
+  height: 35px;
+  width: 35px;
+}
